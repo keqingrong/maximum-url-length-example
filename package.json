@@ -1,0 +1,16 @@
+{
+  "name": "maximum-url-length-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keqingrong",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^8.4.0",
+    "playwright-core": "^1.18.1",
+    "puppeteer": "^13.1.3"
+  }
+}
